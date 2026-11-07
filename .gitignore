@@ -1,0 +1,12 @@
+# Credentials
+secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
